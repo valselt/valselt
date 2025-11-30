@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ivan Aldorino</h1>
 <h3 align="center">a Computer Science student at Universitas Negeri Semarang.</h3>
 
-- 🌱 I’m currently learning **Advanced AI with Infinite Learning through MSIB Batch 7**
-
 - 📫 How to reach me **ivanaldorino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
