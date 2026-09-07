@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://instagram.com/ivanaldorino" target="blank"><img align="center" src="icons/instagram.svg" alt="instagram : ivanaldorino" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/muhammadivanaldorino" target="blank"><img align="center" src="icons/linkedin.svg" alt="linkedin : muhammadivanaldorino" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ivanaldorino" target="blank"><img align="center" src="icons/youtube.svg" alt="@ivanaldorino" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
