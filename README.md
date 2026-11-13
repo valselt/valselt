@@ -1,6 +1,6 @@
 ![Header Image](./photos/header.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ivan Aldorino</h1>
-<h3 align="center">a Computer Science student at Universitas Negeri Semarang.</h3>
+<h3 align="center">Data Analyst Enthusiast</h3>
 
 - 📫 How to reach me **ivanaldorino@gmail.com**
 
